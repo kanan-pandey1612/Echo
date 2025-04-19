@@ -5,13 +5,15 @@ It can perform specific tasks based on user commands and respond with voice-base
 The chatbot is designed to provide an engaging and interactive experience.
 
 Features:
+
 Voice Interaction: Interact with Echo using natural voice commands.
 
 Task Automation: Perform various tasks like opening applications, providing real-time information, and generating images.
 
 Voice-based Responses: Echo responds using speech synthesis.
 
-Technologies Used
+Technologies Used:
+
 Python: Core programming language.
 
 SpeechRecognition: For recognizing voice commands.
@@ -20,9 +22,8 @@ pyttsx3: For text-to-speech functionality.
 
 PyAudio: For handling microphone input.
 
-OpenAI's GPT-3 (or your custom model): For natural language processing and conversation flow.
+How It Works:
 
-How It Works
 Voice Interaction
 Echo listens for your voice input and processes it using SpeechRecognition. When a command is detected, it performs actions like opening applications, telling the time, or even telling jokes.
 
@@ -37,14 +38,16 @@ Provide the current date and time.
 
 Generate images based on user descriptions.
 
-Usage
+Usage:
+
 Start Echo by running the program.
 
 Say your desired command (e.g., "Open Chrome," "What's the weather today?" or "Tell me a joke").
 
 Echo will respond with either speech or perform the corresponding action.
 
-Commands Example
+Commands Example:
+
 "Open Notepad": Opens the Notepad application.
 
 "What's the time?": Tells the current time.
@@ -53,7 +56,8 @@ Commands Example
 
 "Goodbye": Echo says goodbye and exits.
 
-Contributing
+Contributing:
+
 We welcome contributions! If you'd like to improve Echo, please follow these steps:
 
 Fork the repository.
@@ -64,5 +68,6 @@ Commit your changes and push to your forked repository.
 
 Create a pull request to merge your changes.
 
-License
+License:
+
 This project is licensed under the MIT License - see the LICENSE file for details.
