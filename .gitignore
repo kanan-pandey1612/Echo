@@ -1,0 +1,11 @@
+# Security
+.env
+
+# Virtual Environments
+.venv/
+__pycache__/
+*.pyc
+
+# Temporary Data files for Echo
+*.mp3
+*.jpg

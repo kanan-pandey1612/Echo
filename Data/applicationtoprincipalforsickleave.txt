@@ -1,0 +1,27 @@
+Here is a sample application to the principal for a sick leave:
+
+[Student's Name]
+[Class/Section]
+[Date]
+
+The Principal,
+[School Name],
+[School Address],
+
+Subject: Application for Sick Leave
+
+Respected Sir/Madam,
+
+I am writing to request a sick leave for [date of leave] as I am not feeling well and am unable to attend school. I have been experiencing [briefly mention the reason for your absence, e.g. fever, stomach pain, etc.] and am under the advice of my parents to take a day's rest.
+
+I apologize for any inconvenience this may cause and will make sure to catch up on my schoolwork as soon as I am feeling better. I will also ensure that all my assignments and projects are completed on time.
+
+Please let me know if there are any issues or if there is any additional documentation required. I appreciate your understanding and support in this matter.
+
+Thank you for your time and consideration.
+
+Sincerely,
+
+[Your Name]
+
+[Your Signature]
